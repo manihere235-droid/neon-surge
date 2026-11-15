@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Neon Surge — Arcade Shooter",
+  "short_name": "Neon Surge",
+  "description": "A juicy neon arcade shooter. Dodge, chain kills, collect gems and chase your high score.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#07031a",
+  "theme_color": "#07031a",
+  "categories": ["games", "entertainment"],
+  "prefer_related_applications": false,
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
